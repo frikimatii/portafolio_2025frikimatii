@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+    .col-sm-4 {
+      flex: 0 0 33.33%;
+      max-width: 33.33%;
+    }
+  }
+
+.icon-box {
+    padding: 20px;
+    text-align: center;
+  }
+.icon-box img {
+    max-width: 100%;
+    height: auto;
+  }
+
+.form-container {
+    background-color: #3b3b3b;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
